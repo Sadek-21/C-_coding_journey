@@ -25,3 +25,6 @@ TestResults.xml
 *.log
 
 config.json
+
+*.json
+.json
