@@ -14,3 +14,4 @@ for(int i = 0; i < 2; i++) {
    numbers[4 - i] = auxiliary;
 }
 }
+
