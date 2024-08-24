@@ -11,5 +11,6 @@ int main()
 	
 	cout << current_size << endl;
 
-    
+    int current_siz = sizeof(vect[0]);
+    cout << current_siz << endl;
 }
